@@ -333,5 +333,8 @@
         height: 40%;
         width: 100%;
         align-items: flex-start;
+        padding-right: 10vmax;
+        padding-left: 0;
+        margin-bottom: 2vmax;
     }
 }
