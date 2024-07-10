@@ -232,7 +232,7 @@
     }
     .blog
     {
-        height: 135vmax;
+        height: 140vmax;
         flex-direction: column;
     }
     .blog .left
